@@ -1,0 +1,40 @@
+name: KitPvPPlugin
+version: 1.7
+api-version: 1.14
+author: Xp10d3
+main: corelia.xp10d3.kitpvp.Core
+commands:
+  kit:
+    description: Kits
+  spawn:
+    description: Goes to spawn!
+  kits:
+    description: Shows commands!
+  knight:
+    description: Knight kit
+  overlord:
+    description: Overlord kit
+  archer:
+    description: Archer kit
+  magicarcher:
+    description: Magicarcher kit
+  advancedarcher:
+    description: Advancedarcher kit
+  sniper:
+    description: Sniper kit
+  crackshot:
+    description: Crackshot kit
+  scout:
+    description: Scout kit
+  guard:
+    description: Guard kit
+  enderman:
+    description: Enderman kit
+  fisherman:
+    description: Fisherman kit
+  flame:
+    description: Flame kit
+  network:
+    description: Network info!
+  clearinv:
+    description: Clears the inventory!
