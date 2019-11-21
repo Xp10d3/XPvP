@@ -1,14 +1,14 @@
-name: KitPvPPlugin
-version: 1.7
+name: XPvP
+version: 2.0
 api-version: 1.14
 author: Xp10d3
-main: corelia.xp10d3.kitpvp.Core
+main: corelia.xp10d3.core.Core
 commands:
   kit:
     description: Kits
   spawn:
     description: Goes to spawn!
-  kits:
+  commands:
     description: Shows commands!
   knight:
     description: Knight kit
@@ -34,7 +34,9 @@ commands:
     description: Fisherman kit
   flame:
     description: Flame kit
-  network:
-    description: Network info!
+  info:
+    description: Plugin info
+  compass:
+    description: Gives the player a compass and clears inventory
   clearinv:
-    description: Clears the inventory!
+    description: Clears the inventory
